@@ -1,0 +1,18 @@
+{
+  "name": "lcdprocjs",
+  "description": "LCDproc Client for node.js",
+  "version": "0.0.1",
+  "main": "lcdprocjs.js",
+  "dependencies": {
+    "lodash": "~3.10.1"
+  },
+  "author": "Raffaele Cassia",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raffaelecassia/lcdprocjs.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
